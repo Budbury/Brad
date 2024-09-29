@@ -1,0 +1,48 @@
+"You can use this transaction report to inform your likely tax obligations. For US customers, Sells, Converts, Rewards Income, Learning Rewards, and Donations are taxable events. For final tax obligations, please consult your tax advisor."
+
+
+
+Transactions
+User,chrisbradbury66@gmail.com,5edeaad7f824fe07583e3155
+
+Timestamp,Transaction Type,Asset,Quantity Transacted,Spot Price Currency,Spot Price at Transaction,Subtotal,Total (inclusive of fees and/or spread),Fees and/or Spread,Notes
+2023-07-29T16:21:30Z,Convert,ETH,9.639e-05,GBP,1452.43,0.140000,0.140000,0.00,Converted 0.00009639 ETH to 0.00009639 ETH2
+2023-07-02T00:26:02Z,Send,ETH2,0.0,GBP,1511.22,"","","",Sent 0.0000 ETH2 to Christopher Bradbury
+2023-07-01T14:04:22Z,Rewards Income,ATOM,6.5e-05,GBP,7.39,0.00,0.00,0.00,Received 0.000065 ATOM from Coinbase Rewards
+2023-07-08T12:45:43Z,Rewards Income,ATOM,9.3e-05,GBP,7.17,0.00,0.00,0.00,Received 0.000093 ATOM from Coinbase Rewards
+2023-07-25T17:38:10Z,Rewards Income,ATOM,9.0e-06,GBP,6.97,0.00,0.00,0.00,Received 0.000009 ATOM from Coinbase Rewards
+2023-07-25T23:45:14Z,Rewards Income,ATOM,9.0e-06,GBP,6.94,0.00,0.00,0.00,Received 0.000009 ATOM from Coinbase Rewards
+2023-06-29T20:39:23Z,Rewards Income,DOT,1.05362e-05,GBP,3.90,0.00,0.00,0.00,Received 0.00001054 DOT from Coinbase Rewards
+2023-06-30T20:22:26Z,Rewards Income,DOT,1.03365e-05,GBP,4.03,0.00,0.00,0.00,Received 0.00001034 DOT from Coinbase Rewards
+2023-07-01T20:23:39Z,Rewards Income,DOT,0.0001776247,GBP,4.19,0.00,0.00,0.00,Received 0.00017762 DOT from Coinbase Rewards
+2023-07-02T20:22:34Z,Rewards Income,DOT,9.5196e-05,GBP,4.25,0.00,0.00,0.00,Received 0.0000952 DOT from Coinbase Rewards
+2023-07-03T20:30:19Z,Rewards Income,DOT,6.71249e-05,GBP,4.28,0.00,0.00,0.00,Received 0.00006712 DOT from Coinbase Rewards
+2023-07-03T20:37:31Z,Rewards Income,DOT,2.92766e-05,GBP,4.27,0.00,0.00,0.00,Received 0.00002928 DOT from Coinbase Rewards
+2023-07-04T20:25:09Z,Rewards Income,DOT,9.30946e-05,GBP,4.20,0.00,0.00,0.00,Received 0.00009309 DOT from Coinbase Rewards
+2023-07-04T20:25:10Z,Rewards Income,DOT,1.51148e-05,GBP,4.20,0.00,0.00,0.00,Received 0.00001511 DOT from Coinbase Rewards
+2023-07-05T20:19:33Z,Rewards Income,DOT,0.0001101516,GBP,4.09,0.00,0.00,0.00,Received 0.00011015 DOT from Coinbase Rewards
+2023-07-07T20:22:21Z,Rewards Income,DOT,0.0001374263,GBP,3.96,0.00,0.00,0.00,Received 0.00013743 DOT from Coinbase Rewards
+2023-07-08T20:26:22Z,Rewards Income,DOT,0.0002125498,GBP,3.95,0.00,0.00,0.00,Received 0.00021255 DOT from Coinbase Rewards
+2023-07-09T20:22:29Z,Rewards Income,DOT,8.33444e-05,GBP,3.95,0.00,0.00,0.00,Received 0.00008334 DOT from Coinbase Rewards
+2023-07-10T20:29:55Z,Rewards Income,DOT,0.0001276419,GBP,4.04,0.00,0.00,0.00,Received 0.00012764 DOT from Coinbase Rewards
+2023-07-11T22:59:17Z,Rewards Income,DOT,0.0001180401,GBP,4.01,0.00,0.00,0.00,Received 0.00011804 DOT from Coinbase Rewards
+2023-07-13T20:26:50Z,Rewards Income,DOT,8.50318e-05,GBP,4.19,0.00,0.00,0.00,Received 0.00008503 DOT from Coinbase Rewards
+2023-07-13T20:37:28Z,Rewards Income,DOT,1.24138e-05,GBP,4.18,0.00,0.00,0.00,Received 0.00001241 DOT from Coinbase Rewards
+2023-07-14T20:30:05Z,Rewards Income,DOT,8.71703e-05,GBP,4.07,0.00,0.00,0.00,Received 0.00008717 DOT from Coinbase Rewards
+2023-07-15T20:29:58Z,Rewards Income,DOT,0.0001313956,GBP,4.15,0.00,0.00,0.00,Received 0.0001314 DOT from Coinbase Rewards
+2023-07-16T20:27:20Z,Rewards Income,DOT,0.0001954102,GBP,4.07,0.00,0.00,0.00,Received 0.00019541 DOT from Coinbase Rewards
+2023-07-17T20:28:51Z,Rewards Income,DOT,9.44318e-05,GBP,3.99,0.00,0.00,0.00,Received 0.00009443 DOT from Coinbase Rewards
+2023-07-18T20:44:20Z,Rewards Income,DOT,2.78009e-05,GBP,3.95,0.00,0.00,0.00,Received 0.0000278 DOT from Coinbase Rewards
+2023-07-18T20:50:19Z,Rewards Income,DOT,9.90878e-05,GBP,3.94,0.00,0.00,0.00,Received 0.00009909 DOT from Coinbase Rewards
+2023-07-19T22:10:37Z,Rewards Income,DOT,0.000100701,GBP,4.02,0.00,0.00,0.00,Received 0.0001007 DOT from Coinbase Rewards
+2023-07-20T21:23:46Z,Rewards Income,DOT,0.0001076082,GBP,4.10,0.00,0.00,0.00,Received 0.00010761 DOT from Coinbase Rewards
+2023-07-22T21:07:42Z,Rewards Income,DOT,0.0001912591,GBP,4.17,0.00,0.00,0.00,Received 0.00019126 DOT from Coinbase Rewards
+2023-07-23T20:18:23Z,Rewards Income,DOT,9.62265e-05,GBP,4.24,0.00,0.00,0.00,Received 0.00009623 DOT from Coinbase Rewards
+2023-07-24T20:29:24Z,Rewards Income,DOT,1.20863e-05,GBP,4.05,0.00,0.00,0.00,Received 0.00001209 DOT from Coinbase Rewards
+2023-07-26T22:15:20Z,Rewards Income,DOT,0.0002069064,GBP,4.04,0.00,0.00,0.00,Received 0.00020691 DOT from Coinbase Rewards
+2023-07-27T20:46:19Z,Rewards Income,DOT,0.0001554253,GBP,4.06,0.00,0.00,0.00,Received 0.00015543 DOT from Coinbase Rewards
+2023-07-28T22:31:26Z,Rewards Income,DOT,7.33692e-05,GBP,4.05,0.00,0.00,0.00,Received 0.00007337 DOT from Coinbase Rewards
+2023-07-29T16:20:13Z,Convert,DOT,0.0353983892,GBP,3.95,0.140000,0.140000,0.00,Converted 0.03539839 DOT to 0.00009639 ETH
+2023-07-29T21:07:00Z,Rewards Income,DOT,0.000106104,GBP,4.08,0.00,0.00,0.00,Received 0.0001061 DOT from Coinbase Rewards
+2023-07-29T21:07:46Z,Rewards Income,DOT,2.1822e-05,GBP,4.08,0.00,0.00,0.00,Received 0.00002182 DOT from Coinbase Rewards
+2023-07-02T00:26:01Z,Send,CBETH,0.0,GBP,1571.35,"","","",Sent 0.0000 CBETH to Yield CBETH
